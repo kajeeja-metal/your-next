@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import { Modal, Tabs, Tab, Row, Col, Nav, Image, Accordion } from 'react-bootstrap';
 import ArticleReview from "../../components/articleReview";
 import ArticleNews from "../../components/articleNews";
-const review = (props) => {
+const Review2 = (props) => {
     const [articleReview, setArticleReview] = useState([
         {
             titleReview: 'ผลเลือดออกมาดีมากพร้อมให้คีโมต่อค่ะ',
@@ -104,4 +104,4 @@ const review = (props) => {
         </div>
     )
 }
-export default review
+export default Review2

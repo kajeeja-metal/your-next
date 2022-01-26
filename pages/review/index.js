@@ -4,7 +4,7 @@ import ArticleReview from "../../components/articleReview";
 import ArticleWhy from "../../components/articleWhy";
 import ArticleProduct from "../../components/articleProduct";
 import ArticleNews from "../../components/articleNews";
-const review = (props) => {
+const Review = (props) => {
     const [articleReview, setArticleReview] = useState([
         {
             titleReview: 'ผลเลือดออกมาดีมากพร้อมให้คีโมต่อค่ะ',
@@ -171,4 +171,4 @@ const review = (props) => {
         </div>
     )
 }
-export default review
+export default Review
