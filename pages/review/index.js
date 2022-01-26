@@ -110,7 +110,7 @@ const Review = (props) => {
             <section className="section-banner">
                 <div className="banner-list">
                     <img className="img-banner" src="static/img_mockup/banner1.png" />
-                    <span className="text-banner1">ภูมิคุ้มกันแข็งแรง<br/>ห่างไกลมะเร็ง</span>
+                    <span className="text-banner1">ภูมิคุ้มกันแข็งแรง<br/>ห่างไกลมะเร็ง สุดยอด</span>
                 </div>
             </section>
             <section className="section-review">
