@@ -10,7 +10,7 @@ const icon_property = (props) => {
             {props.id == 1 ?
              <svg className="icon_property_1" xmlns="http://www.w3.org/2000/svg" width="167" height="167" viewBox="0 0 167 167">
                 <g id="Group_549" data-name="Group 549" transform="translate(-3970.587 12848.551)">
-                    <g id="Ellipse_51" data-name="Ellipse 51" transform="translate(3970.587 -12848.551)" fill="none" stroke="currentColor" stroke-width="5">
+                    <g id="Ellipse_51" data-name="Ellipse 51" transform="translate(3970.587 -12848.551)" fill="none" stroke="currentColor" strokeWidth="5">
                     <circle cx="83.5" cy="83.5" r="83.5" stroke="none"/>
                     <circle cx="83.5" cy="83.5" r="81" fill="none"/>
                     </g>
@@ -25,7 +25,7 @@ const icon_property = (props) => {
             {props.id == 2 ?
             <svg className="icon_property_2" xmlns="http://www.w3.org/2000/svg" width="166" height="167" viewBox="0 0 166 167">
             <g id="Group_550" data-name="Group 550" transform="translate(-4259.587 12848.551)">
-                <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(4259.587 -12848.551)" fill="none" stroke="currentColor" stroke-width="5">
+                <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(4259.587 -12848.551)" fill="none" stroke="currentColor" strokeWidth="5">
                 <ellipse cx="83" cy="83.5" rx="83" ry="83.5" stroke="none"/>
                 <ellipse cx="83" cy="83.5" rx="80.5" ry="81" fill="none"/>
                 </g>
@@ -48,11 +48,11 @@ const icon_property = (props) => {
             <g id="Group_551" data-name="Group 551" transform="translate(-4551.587 12848.551)">
                 <g id="noun_drop_632613" transform="translate(4615.299 -12792.313)">
                 <g id="Group_476" data-name="Group 476" transform="translate(0 0)">
-                    <path id="Path_205" data-name="Path 205" d="M69.366,58.657a22.329,22.329,0,1,1-44.657,0c0-12.33,22.329-49.125,22.329-49.125S69.366,46.327,69.366,58.657Z" transform="translate(-24.709 -9.532)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
-                    <path id="Path_206" data-name="Path 206" d="M63.4,65.174A13.413,13.413,0,0,1,50,78.572" transform="translate(-27.671 -16.049)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4"/>
+                    <path id="Path_205" data-name="Path 205" d="M69.366,58.657a22.329,22.329,0,1,1-44.657,0c0-12.33,22.329-49.125,22.329-49.125S69.366,46.327,69.366,58.657Z" transform="translate(-24.709 -9.532)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" strokeWidth="4"/>
+                    <path id="Path_206" data-name="Path 206" d="M63.4,65.174A13.413,13.413,0,0,1,50,78.572" transform="translate(-27.671 -16.049)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" strokeWidth="4"/>
                 </g>
                 </g>
-                <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(4551.587 -12848.551)" fill="none" stroke="currentColor" stroke-width="5">
+                <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(4551.587 -12848.551)" fill="none" stroke="currentColor" strokeWidth="5">
                 <ellipse cx="83" cy="83.5" rx="83" ry="83.5" stroke="none"/>
                 <ellipse cx="83" cy="83.5" rx="80.5" ry="81" fill="none"/>
                 </g>
@@ -73,7 +73,7 @@ const icon_property = (props) => {
             {props.id == 4 ?
             <svg className="icon_property_4" xmlns="http://www.w3.org/2000/svg" width="167" height="168" viewBox="0 0 167 168">
             <g id="Group_552" data-name="Group 552" transform="translate(-3974.587 12550.551)">
-                <g id="Ellipse_102" data-name="Ellipse 102" transform="translate(3974.587 -12550.551)" fill="none" stroke="currentColor" stroke-width="5">
+                <g id="Ellipse_102" data-name="Ellipse 102" transform="translate(3974.587 -12550.551)" fill="none" stroke="currentColor" strokeWidth="5">
                 <ellipse cx="83.5" cy="84" rx="83.5" ry="84" stroke="none"/>
                 <ellipse cx="83.5" cy="84" rx="81" ry="81.5" fill="none"/>
                 </g>
@@ -101,7 +101,7 @@ const icon_property = (props) => {
                 <path id="Path_194" data-name="Path 194" d="M32.761,59.046a6.113,6.113,0,1,0,6.113,6.113A6.12,6.12,0,0,0,32.761,59.046Zm0,9.151A3.038,3.038,0,1,1,35.8,65.159,3.042,3.042,0,0,1,32.761,68.2Z" transform="translate(11.121 27.137)" fill="currentColor"/>
                 <path id="Path_195" data-name="Path 195" d="M38.857,50.681a6.113,6.113,0,1,0,6.113,6.113A6.12,6.12,0,0,0,38.857,50.681Zm0,9.151a3.038,3.038,0,1,1,3.038-3.038A3.042,3.042,0,0,1,38.857,59.832Z" transform="translate(14.398 22.639)" fill="currentColor"/>
                 </g>
-                <g id="Ellipse_103" data-name="Ellipse 103" transform="translate(4262.587 -12550.551)" fill="none" stroke="currentColor" stroke-width="5">
+                <g id="Ellipse_103" data-name="Ellipse 103" transform="translate(4262.587 -12550.551)" fill="none" stroke="currentColor" strokeWidth="5">
                 <ellipse cx="83.5" cy="84" rx="83.5" ry="84" stroke="none"/>
                 <ellipse cx="83.5" cy="84" rx="81" ry="81.5" fill="none"/>
                 </g>
@@ -118,7 +118,7 @@ const icon_property = (props) => {
                     <path id="Path_204" data-name="Path 204" d="M60.423,30.282a10.855,10.855,0,0,1-3.2-7.724V18.492H60.97a1.875,1.875,0,0,0,1.874-1.874V5.374A1.875,1.875,0,0,0,60.97,3.5H12.248a1.875,1.875,0,0,0-1.874,1.874V16.618a1.875,1.875,0,0,0,1.874,1.874H16v4.066a10.84,10.84,0,0,1-3.2,7.724A14.587,14.587,0,0,0,8.5,40.657v44.36A12.2,12.2,0,0,0,20.681,97.2H52.538A12.2,12.2,0,0,0,64.718,85.017V40.657A14.587,14.587,0,0,0,60.423,30.282ZM14.122,7.248H59.1v7.5H14.122ZM12.248,74.71H36.609a1.874,1.874,0,1,0,0-3.748H12.248V67.214H36.609a1.874,1.874,0,1,0,0-3.748H12.248V59.718H36.609a1.874,1.874,0,1,0,0-3.748H12.248V52.223H45.979V78.458H12.248ZM60.97,85.017a8.441,8.441,0,0,1-8.433,8.433H20.681a8.441,8.441,0,0,1-8.433-8.433V82.206h35.6a1.875,1.875,0,0,0,1.874-1.874V50.349a1.875,1.875,0,0,0-1.874-1.874h-35.6V40.657a10.853,10.853,0,0,1,3.2-7.724,14.574,14.574,0,0,0,4.3-10.374V18.492H53.475v4.066a14.574,14.574,0,0,0,4.3,10.374,10.868,10.868,0,0,1,3.2,7.724Z" transform="translate(-8.5 -3.5)" fill="currentColor"/>
                 </g>
                 </g>
-                <g id="Ellipse_104" data-name="Ellipse 104" transform="translate(4554.587 -12550.551)" fill="none" stroke="currentColor" stroke-width="5">
+                <g id="Ellipse_104" data-name="Ellipse 104" transform="translate(4554.587 -12550.551)" fill="none" stroke="currentColor" strokeWidth="5">
                 <ellipse cx="83.5" cy="84" rx="83.5" ry="84" stroke="none"/>
                 <ellipse cx="83.5" cy="84" rx="81" ry="81.5" fill="none"/>
                 </g>
@@ -132,7 +132,7 @@ const icon_property = (props) => {
             {props.id == 7 ?
             <svg className="icon_property_7" xmlns="http://www.w3.org/2000/svg" width="119" height="120" viewBox="0 0 119 120">
             <g id="Group_560" data-name="Group 560" transform="translate(-618 -2648)">
-                <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(618 2648)" fill="none" stroke="currentColor" stroke-width="5">
+                <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(618 2648)" fill="none" stroke="currentColor" strokeWidth="5">
                 <ellipse cx="59.5" cy="60" rx="59.5" ry="60" stroke="none"/>
                 <ellipse cx="59.5" cy="60" rx="57" ry="57.5" fill="none"/>
                 </g>
@@ -154,12 +154,12 @@ const icon_property = (props) => {
             <svg className="icon_property_8" xmlns="http://www.w3.org/2000/svg" width="119" height="120" viewBox="0 0 119 120">
             <g id="Group_561" data-name="Group 561" transform="translate(-618 -2929)">
                 <g id="Group_272" data-name="Group 272" transform="translate(618.142 2928.982)">
-                <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(-0.142 0.018)" fill="none" stroke="currentColor" stroke-width="5">
+                <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(-0.142 0.018)" fill="none" stroke="currentColor" strokeWidth="5">
                     <ellipse cx="59.5" cy="60" rx="59.5" ry="60" stroke="none"/>
                     <ellipse cx="59.5" cy="60" rx="57" ry="57.5" fill="none"/>
                 </g>
                 </g>
-                <text id="_300_mg" data-name="300 mg" transform="translate(654.5 3027.793)" fill="currentColor" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">300 mg</tspan></text>
+                <text id="_300_mg" data-name="300 mg" transform="translate(654.5 3027.793)" fill="currentColor" fontSize="12" fontFamily="SegoeUI, Segoe UI"><tspan x="0" y="0">300 mg</tspan></text>
                 <path id="Path_169" data-name="Path 169" d="M92.426,180.4c14.265-14.733,37.354,7.613,23.118,22.327l-13.626,14.09L78.829,194.471ZM81.757,220.438a3.29,3.29,0,1,1-3.288,3.293A3.293,3.293,0,0,1,81.757,220.438Zm-6.238-8.663a3.29,3.29,0,1,1-3.289,3.293A3.293,3.293,0,0,1,75.519,211.775Zm8.605-2.6a3.29,3.29,0,1,1-3.288,3.288A3.29,3.29,0,0,1,84.124,209.179ZM78.119,201.9a3.29,3.29,0,1,1-3.293,3.289A3.29,3.29,0,0,1,78.119,201.9Zm-15.99,12.281Zm9.016-19.84L61.2,184.056c-9.387-9.695-24.855,5.281-15.458,14.986L55.672,209.3Zm-6.113-13.957,13.618,14.09-23.1,22.335-13.637-14.09C27.757,188.051,50.866,165.713,65.032,180.381Zm31.222,3.7L86.313,194.36l15.464,14.966,9.948-10.284C121.1,189.365,105.641,174.382,96.254,184.077Z" transform="translate(598.749 2784.422)" fill="currentColor"/>
             </g>
             </svg>
@@ -170,7 +170,7 @@ const icon_property = (props) => {
             <svg className="icon_property_9" xmlns="http://www.w3.org/2000/svg" width="119" height="120" viewBox="0 0 119 120">
             <g id="Group_562" data-name="Group 562" transform="translate(-617 -3069)">
                 <g id="Group_273" data-name="Group 273" transform="translate(617 3069.478)">
-                <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(0 -0.478)" fill="none" stroke="currentColor" stroke-width="5">
+                <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(0 -0.478)" fill="none" stroke="currentColor" strokeWidth="5">
                     <ellipse cx="59.5" cy="60" rx="59.5" ry="60" stroke="none"/>
                     <ellipse cx="59.5" cy="60" rx="57" ry="57.5" fill="none"/>
                 </g>

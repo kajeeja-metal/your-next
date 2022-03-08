@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react"
 import { Modal, Tabs, Tab, Row, Col, Nav, Image, Accordion } from 'react-bootstrap';
 import ArticleReview from "../../components/articleReview";
 import ArticleNews from "../../components/articleNews";
+import HeaderMenu from "../../components/headerMenu";
+import FooterMenu from "../../components/footerMenu";
 const Review2 = (props) => {
     const [articleReview, setArticleReview] = useState([
         {
@@ -63,6 +65,8 @@ const Review2 = (props) => {
     }
 
     return (
+        <>
+        <HeaderMenu/>
         <div className="page-review page2">
 
             <section className="section-banner">
@@ -102,6 +106,8 @@ const Review2 = (props) => {
             </section>
             
         </div>
+        <FooterMenu/>
+        </>
     )
 }
 export default Review2

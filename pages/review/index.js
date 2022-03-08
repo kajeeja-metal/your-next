@@ -4,6 +4,8 @@ import ArticleReview from "../../components/articleReview";
 import ArticleWhy from "../../components/articleWhy";
 import ArticleProduct from "../../components/articleProduct";
 import ArticleNews from "../../components/articleNews";
+import HeaderMenu from "../../components/headerMenu";
+import FooterMenu from "../../components/footerMenu";
 const Review = (props) => {
     const [articleReview, setArticleReview] = useState([
         {
@@ -105,6 +107,8 @@ const Review = (props) => {
     }
 
     return (
+        <>
+        <HeaderMenu/>
         <div className="page-review page1">
 
             <section className="section-banner">
@@ -169,6 +173,8 @@ const Review = (props) => {
             </section>
             
         </div>
+        <FooterMenu/>
+        </>
     )
 }
 export default Review
