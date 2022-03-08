@@ -10,8 +10,9 @@ import {
   Accordion,
 } from "react-bootstrap";
 import ArticleReview from "../../components/articleReview";
-import ArticleNews from "../../components/articleNews";
+import HeaderMenu from "../../components/headerMenu";
 import Icon_property from "../../components/icon_property";
+import FooterMenu from "../../components/footerMenu";
 const product = (props) => {
   const [articleReview, setArticleReview] = useState([
     {
@@ -101,6 +102,8 @@ const product = (props) => {
   const getStart = async () => {};
 
   return (
+    <>
+    <HeaderMenu/>
     <div className="page-review page3">
       <section className="section-banner">
         <div className="banner-list">
@@ -168,6 +171,8 @@ const product = (props) => {
         </div>
       </section>
     </div>
+    <FooterMenu/>
+    </>
   );
 };
 export default product;
