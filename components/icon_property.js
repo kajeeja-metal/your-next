@@ -48,8 +48,8 @@ const icon_property = (props) => {
             <g id="Group_551" data-name="Group 551" transform="translate(-4551.587 12848.551)">
                 <g id="noun_drop_632613" transform="translate(4615.299 -12792.313)">
                 <g id="Group_476" data-name="Group 476" transform="translate(0 0)">
-                    <path id="Path_205" data-name="Path 205" d="M69.366,58.657a22.329,22.329,0,1,1-44.657,0c0-12.33,22.329-49.125,22.329-49.125S69.366,46.327,69.366,58.657Z" transform="translate(-24.709 -9.532)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" strokeWidth="4"/>
-                    <path id="Path_206" data-name="Path 206" d="M63.4,65.174A13.413,13.413,0,0,1,50,78.572" transform="translate(-27.671 -16.049)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" strokeWidth="4"/>
+                    <path id="Path_205" data-name="Path 205" d="M69.366,58.657a22.329,22.329,0,1,1-44.657,0c0-12.33,22.329-49.125,22.329-49.125S69.366,46.327,69.366,58.657Z" transform="translate(-24.709 -9.532)" fill="none" stroke="currentColor" strokeLinecap="round" strokeMiterlimit="round" strokeMiterlimit="10" strokeWidth="4"/>
+                    <path id="Path_206" data-name="Path 206" d="M63.4,65.174A13.413,13.413,0,0,1,50,78.572" transform="translate(-27.671 -16.049)" fill="none" stroke="currentColor" strokeLinecap="round" strokeMiterlimit="round" strokeMiterlimit="10" strokeWidth="4"/>
                 </g>
                 </g>
                 <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(4551.587 -12848.551)" fill="none" stroke="currentColor" strokeWidth="5">
